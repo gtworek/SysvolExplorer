@@ -1,0 +1,56 @@
+﻿  AASParser.cpp
+  AASPrinter.cpp
+  ADMParser.cpp
+  ADMPrinter.cpp
+  DACLParser.cpp
+  DACLPrinter.cpp
+  ADMFILESiniParser.cpp
+  ADMFILESiniPrinter.cpp
+  Common.cpp
+  DENIEDParser.cpp
+  DENIEDPrinter.cpp
+  Dispatcher.cpp
+  FDEPLOYiniParser.cpp
+  FDEPLOYiniPrinter.cpp
+  GPEiniParser.cpp
+  GPEiniPrinter.cpp
+  GPTiniParser.cpp
+  GPTiniPrinter.cpp
+  IEAKParser.cpp
+  IEAKPrinter.cpp
+  Generating Code...
+  Compiling...
+  INFParser.cpp
+  INFPrinter.cpp
+  INIGenericParser.cpp
+  INIGenericPrinter.cpp
+  LDAPCrawler.cpp
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(20,33): warning C4311:  'type cast': pointer truncation from 'void *' to 'ULONG'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(20,33): warning C4302:  'type cast': truncation from 'void *' to 'ULONG'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(254,66): warning C4311:  'type cast': pointer truncation from 'wchar_t *' to 'DWORD'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(254,66): warning C4302:  'type cast': truncation from 'wchar_t *' to 'DWORD'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(254,94): warning C4311:  'type cast': pointer truncation from 'PTCHAR' to 'DWORD'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(254,94): warning C4302:  'type cast': truncation from 'PTCHAR' to 'DWORD'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(638,5): warning C4311:  'type cast': pointer truncation from 'PCHAR' to 'DWORD'
+  LDAPPrinter.cpp
+  Main.cpp
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\LDAPCrawler.cpp(638,5): warning C4302:  'type cast': truncation from 'PCHAR' to 'DWORD'
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(263,51): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(263,51): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(301,44): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(301,44): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(309,50): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(309,50): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(316,50): warning C4474:  'printf' : too many arguments passed for format string
+  MISCParser.cpp
+  MISCPrinter.cpp
+  POLParser.cpp
+  POLPrinter.cpp
+  PREFERENCESParser.cpp
+  PREFERENCESPrinter.cpp
+  PrinterCommon.cpp
+  SCRIPTSiniParser.cpp
+  SCRIPTSiniPrinter.cpp
+  Generating Code...
+C:\Users\GrzegorzTworek\source\repos\gtworek\SysvolExplorer\sysvolcrawler\SysvolCrawler\Main.cpp(316,50): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  SysvolCrawler.vcxproj -> C:\Users\GrzegorzTworek\Source\Repos\gtworek\SysvolExplorer\sysvolcrawler\x64\Debug\SysvolCrawler.exe
